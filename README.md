@@ -2,7 +2,8 @@
 - 👀 I’m interested in latest upcoming technologies especially in the field of Java, Cloud and Machine Learning
 - 📫 I can be reached at star.akshhatks@gmail.com or +91-7838226886
 - **Certifications**
--  CKAD-Certified Kubernetes Application Developer - Linux Foundation
+-  CKAD-Certified Kubernetes Application Developer - Cloud Native Computing Foundation
+-  CKA- Certified Kubernetes Administrator - Cloud Native Computing Foundation
 -  AZ-900-Fundamentals of Azure Cloud - Microsoft
 -  Hashicorp Certified Terraform Associate - Hashicorp
 

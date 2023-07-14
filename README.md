@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Kumar Singh
 - 👀 I’m interested in latest upcoming technologies especially in the field of Java, Cloud and Machine Learning
-- 📫 I can be reached at star.akshhatks@gmail.com or +91-7838226886
+- 📫 I can be reached at amitks.sky@gmail.com or +91-7838226886
 - **Certifications**
 -  CKAD-Certified Kubernetes Application Developer - Cloud Native Computing Foundation
 -  CKA- Certified Kubernetes Administrator - Cloud Native Computing Foundation

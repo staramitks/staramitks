@@ -6,6 +6,7 @@
 -  CKA- Certified Kubernetes Administrator - Cloud Native Computing Foundation
 -  AZ-900-Fundamentals of Azure Cloud - Microsoft
 -  Hashicorp Certified Terraform Associate - Hashicorp
+-  My profile - https://staramitks.github.io/amit-singh-cv/
 
 <!---
 staramitks/staramitks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
